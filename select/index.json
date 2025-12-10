@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "アイ ラブ ユー",
+  "base_artist": "Sambomaster",
+  "createdAt": "2025-12-10T04:16:28.968947Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "パパ、アイ・ラブ・ユー!!",
+      "artist": "花澤香菜",
+      "has_synced": false,
+      "path": "select/01_パパ、アイ・ラブ・ユー!!_花澤香菜.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "I Love You",
+      "artist": "サンボマスター",
+      "has_synced": false,
+      "path": "select/pl_01_I_Love_You_サンボマスター.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "I Love You",
+      "artist": "サンボマスター",
+      "has_synced": false,
+      "path": "select/pl_02_I_Love_You_サンボマスター.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "I Love You (アルバムバージョン)",
+      "artist": "サンボマスター",
+      "has_synced": false,
+      "path": "select/pl_03_I_Love_You_(アルバムバージョン)_サンボマスター.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "I Love You (アルバムバージョン)",
+      "artist": "サンボマスター",
+      "has_synced": false,
+      "path": "select/pl_04_I_Love_You_(アルバムバージョン)_サンボマスター.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "I love you & I hate the world",
+      "artist": "サンボマスター",
+      "has_synced": false,
+      "path": "select/pl_05_I_love_you_&_I_hate_the_world_サンボマスター.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "I love you & I hate the world",
+      "artist": "サンボマスター",
+      "has_synced": false,
+      "path": "select/pl_06_I_love_you_&_I_hate_the_world_サンボマスター.txt"
+    }
+  ]
+}
